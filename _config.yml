@@ -21,7 +21,7 @@ baseurl: ""
 url: "https://intelquackcore.github.io/"
 
 # Favicon
-favicon: images/favicon.png
+favicon: images/QCI.png
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 google_analytics: "G-84HY3JV5K8"
@@ -41,7 +41,7 @@ accent_color: '#ffbd59'
 
 # Site footer
 footer:
-  content: "&copy; Sam Gregg all rights reserved. All elements used are under MIT licence"
+  content: "&copy; Sam Gregg all rights reserved. All page elements used are under MIT licence"
   has_social: true
 
 # Plugins
