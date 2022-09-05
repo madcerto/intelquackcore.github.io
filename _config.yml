@@ -30,14 +30,8 @@ google_analytics: ""
 navigation:
   - text: Home
     url: /
-  - text: About
-    url: /about/
-  - text: Style Guide
-    url: /style-guide/
-  - text: Tags
-    url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+  - text: Linktree
+    url: https://linktr.ee/quackcore
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
