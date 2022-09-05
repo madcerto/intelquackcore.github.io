@@ -34,7 +34,7 @@ navigation:
     url: https://linktr.ee/quackcore
 
 # The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+disqus: 
 
 # Colors
 accent_color: '#ffbd59'
