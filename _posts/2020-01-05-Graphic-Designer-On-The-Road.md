@@ -3,7 +3,7 @@ layout: post
 title: "QuackCore.com 2.0"
 description: "A website that is not just a link to my linkTree, it is like 10% more work"
 date: 2022-01-05
-feature_image: PXL_20220108_204754403.jpg
+feature_image: images/PXL_20220108_204754403.jpg
 tags: [tips, work]
 ---
 
