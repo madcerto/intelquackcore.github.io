@@ -24,7 +24,7 @@ url: "https://intelquackcore.github.io/"
 favicon: images/favicon.png
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-google_analytics: ""
+google_analytics: "G-84HY3JV5K8"
 
 # Site navigation - each item must have a title and a url.
 navigation:
@@ -41,7 +41,7 @@ accent_color: '#ffbd59'
 
 # Site footer
 footer:
-  content: "&copy; Sam Gregg all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
+  content: "&copy; Sam Gregg all rights reserved. All elements used are under MIT licence"
   has_social: true
 
 # Plugins
