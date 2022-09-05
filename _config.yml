@@ -31,7 +31,7 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /about/
+    url: https://intelquackcore.github.io/about/
   - text: Style Guide
     url: /style-guide/
   - text: Tags
