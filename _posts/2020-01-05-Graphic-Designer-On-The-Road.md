@@ -2,7 +2,7 @@
 layout: post
 title: "QuackCore.com 2.0"
 description: "A website that is not just a link to my linkTree, it is like 10% more work"
-date: 2022-01-05
+date: 2022-08-05
 feature_image: images/PXL_20220108_204754403.jpg
 tags: [web, discord, personal]
 ---
