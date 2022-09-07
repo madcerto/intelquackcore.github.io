@@ -18,7 +18,7 @@ description: "Personal website for Sam Gregg, Focused on film, photos and more"
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://intelquackcore.github.io/"
+url: "https://quackcore.com/"
 
 # Favicon
 favicon: images/QCI.png
