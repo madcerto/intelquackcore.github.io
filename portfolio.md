@@ -1,6 +1,6 @@
 ---
 layout: page
-title: portfolio
+title: Portfolio
 description: A Sample of photo and video work done by me.
 feature_image: images/field.jpg
 ---
@@ -19,4 +19,4 @@ feature_image: images/field.jpg
 
 
 
-*Thank You for your interest!*
+*Thank You for looking!*
