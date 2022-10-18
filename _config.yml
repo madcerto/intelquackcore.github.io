@@ -30,6 +30,8 @@ google_analytics: "G-84HY3JV5K8"
 navigation:
   - text: Home
     url: /
+  - text: Portfolio
+    url: /portfolio/
   - text: Linktree
     url: https://linktr.ee/quackcore
 
