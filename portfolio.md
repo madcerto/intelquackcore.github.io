@@ -5,7 +5,7 @@ description: A Sample of photo and video work done by me.
 feature_image: images/field.jpg
 ---
 
-**Sam Gregg** is a Film and Telivision student. 
+**Sam Gregg** is a Film and Television student, as well as a photographer and freelance video editor. If you have any questions about my work, please reach out to me via email: **sam@quackcore.com**
 
 {% include image_full.html imageurl="/images/WATERMARKED-1.jpg" title="Building in the works" caption="Urban Construction" %}
 
