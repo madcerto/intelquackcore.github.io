@@ -17,6 +17,10 @@ feature_image: images/field.jpg
 
 {% include image_full.html imageurl="/images/WATERMARKED-7.jpg" title="Closed for storm" caption="Taken at the start of a tropical storm" %}
 
+# Video Work
+This is some of my past work doing video projects. A video reel is in the works for this section. Stay tuned.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xrkHsUdrLvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Super8 Camera Test](https://www.youtube.com/watch?v=xrkHsUdrLvI) available on my YouTube [Samuel Gregg](https://www.youtube.com/@samgregg)
 
 *Thank You for looking!*
