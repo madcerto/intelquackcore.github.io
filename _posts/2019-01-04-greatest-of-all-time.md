@@ -3,7 +3,7 @@ layout: post
 title: "Greatest Albums of All Time"
 description: "A place to showcase my bad taste in music"
 date: 2022-09-07
-feature_image: images/topsters9.jpg
+feature_image: topstersJPG.jpg
 tags: [web, discord, personal]
 ---
 

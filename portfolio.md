@@ -23,6 +23,6 @@ This is some of my past work doing video projects. A video reel is in the works 
 [Super8 Camera Test](https://www.youtube.com/watch?v=xrkHsUdrLvI) available on my YouTube [Samuel Gregg](https://www.youtube.com/@samgregg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d81qEMhBk5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[Ain't No Love](https://youtu.be/d81qEMhBk5M) available on my website [QuackCore](https://quackcore.com)
+"Ain't No Love" available on my website [QuackCore](https://quackcore.com)
 
 *Thank You for looking!*
