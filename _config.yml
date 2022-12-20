@@ -34,6 +34,8 @@ navigation:
     url: /portfolio
   - text: Linktree
     url: https://linktr.ee/quackcore
+  - text: Archives
+    url: /tags
 
 # The shortname for your Disqus site to enable comments.
 disqus: 
