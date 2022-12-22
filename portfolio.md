@@ -9,11 +9,11 @@ feature_image: images/field.jpg
 
 {% include image_caption.html imageurl="/images/WATERMARKED-1.jpg" title="Building in the works" caption="Urban Construction" %}
 
-{% include image_full.html imageurl="/images/WATERMARKED-2.jpg" title="Sunset" caption="Sunset and the sea" %}
+{% include image_caption.html imageurl="/images/WATERMARKED-2.jpg" title="Sunset" caption="Sunset and the sea" %}
 
-{% include image_full.html imageurl="/images/WATERMARKED-3.jpg" title="Building in the works" caption="Climber on a rock" %}
+{% include image_caption.html imageurl="/images/WATERMARKED-3.jpg" title="Building in the works" caption="Climber on a rock" %}
 
-{% include image_full.html imageurl="/images/WATERMARKED-4.jpg" title="Walking the Sea wall" caption="Sunset while walking" %}
+{% include image_caption.html imageurl="/images/WATERMARKED-4.jpg" title="Walking the Sea wall" caption="Sunset while walking" %}
 
 
 # Video Work
