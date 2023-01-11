@@ -9,14 +9,13 @@ feature_image: images/field.jpg
 
 {% include image_caption.html imageurl="/images/WATERMARKED-1.jpg" title="Building in the works" caption="Urban Construction" %}
 
-{% include image_caption.html imageurl="/images/WATERMARKED-2.jpg" title="Sunset" caption="Sunset and the sea" %}
+{% include image_caption.html imageurl="/images/WATERMARKED-6.jpg" title="Vermont Hills" caption="New England in Fall" %}
 
 {% include image_caption.html imageurl="/images/UNMARKED-1.jpg" title="City Street Food" caption="City Street Food" %}
 
-{% include image_caption.html imageurl="/images/WATERMARKED-6.jpg" title="Vermont Hills" caption="New England in Fall" %}
-
 {% include image_caption.html imageurl="/images/WATERMARKED-4.jpg" title="Walking the Sea wall" caption="Sunset while walking" %}
 
+{% include image_caption.html imageurl="/images/UNMARKED-2.jpg" title="Urban Contrast" caption="Urban Contrast" %}
 
 # Video Work
 This is some of my past work doing video projects. A video reel is in the works for this section. Stay tuned.
