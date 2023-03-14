@@ -7,13 +7,13 @@ feature_image: images/field.jpg
 
 **Sam Gregg** is a current Film Student, as well as a freelance photographer, video editor, and photojournalist. If you have any questions about my work, or would like to work together, please reach out to me via email: **sam@quackcore.com**
 
-{% include image_caption.html imageurl="/images/WATERMARKED-1.jpg" title="Building in the works" caption="Urban Construction" %}
+{% include image_caption.html imageurl="/images/building.jpg" title="Building in the works" caption="Urban Construction" %}
 
-{% include image_caption.html imageurl="/images/WATERMARKED-6.jpg" title="Vermont Hills" caption="New England in Fall" %}
+{% include image_caption.html imageurl="/images/fall.jpg" title="Vermont Hills" caption="New England in Fall" %}
 
 {% include image_caption.html imageurl="/images/UNMARKED-1.jpg" title="City Street Food" caption="City Street Food" %}
 
-{% include image_caption.html imageurl="/images/WATERMARKED-4.jpg" title="Walking the Sea wall" caption="Sunset while walking" %}
+{% include image_caption.html imageurl="/images/walking.jpg" title="Walking the Sea wall" caption="Sunset while walking" %}
 
 {% include image_caption.html imageurl="/images/UNMARKED-2.jpg" title="Urban Contrast" caption="Urban Contrast" %}
 
