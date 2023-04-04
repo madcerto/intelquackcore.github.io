@@ -13,7 +13,7 @@ feature_image: images/field.jpg
 
 {% include image_caption.html imageurl="/images/UNMARKED-1.jpg" title="City Street Food" caption="City Street Food" %}
 
-{% include image_caption.html imageurl="/images/searsbw.jpg" title="Winter B&W" caption="Winter B&W" %}
+{% include image_caption.html imageurl="/images/sears.jpg" title="Winter" caption="Sear's in Winter" %}
 
 {% include image_caption.html imageurl="/images/UNMARKED-2.jpg" title="Urban Contrast" caption="Urban Contrast" %}
 
