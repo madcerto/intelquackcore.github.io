@@ -21,7 +21,7 @@ baseurl: ""
 url: "https://quackcore.com/"
 
 # Favicon
-favicon: images/quackcoregoldcircle.png
+favicon: images/quackcoregoldnobackground.png
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 google_analytics: "G-84HY3JV5K8"
