@@ -13,7 +13,7 @@ feature_image: images/field.jpg
 
 {% include image_caption.html imageurl="/images/UNMARKED-1.jpg" title="City Street Food" caption="City Street Food" %}
 
-{% include image_caption.html imageurl="/images/4th Floor.jpeg" title="Attic" caption="Attic Escape" %}
+{% include image_caption.html imageurl="/images/attic.jpg" title="Attic" caption="Attic Escape" %}
 
 {% include image_caption.html imageurl="/images/tree.jpg" title="Lone Tree" caption="Lone Tree" %}
 
