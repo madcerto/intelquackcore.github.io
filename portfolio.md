@@ -13,9 +13,9 @@ feature_image: images/field.jpg
 
 {% include image_caption.html imageurl="/images/UNMARKED-1.jpg" title="City Street Food" caption="City Street Food" %}
 
-{% include image_caption.html imageurl="/images/sears.jpg" title="Winter" caption="Sear's in Winter" %}
+{% include image_caption.html imageurl="/images/4th Floor.jpeg" title="Attic" caption="Attic Escape" %}
 
-{% include image_caption.html imageurl="/images/UNMARKED-2.jpg" title="Urban Contrast" caption="Urban Contrast" %}
+{% include image_caption.html imageurl="/images/tree.jpg" title="Lone Tree" caption="Lone Tree" %}
 
 # Video Work
 This is some of my past work doing video projects. A video reel is in the works for this section. Stay tuned.
