@@ -5,7 +5,7 @@ description: A Sample of photo and video work done by me.
 feature_image: images/field.jpg
 ---
 
-**Sam Gregg** is a current Film Student, as well as a freelance photographer, video editor, and photojournalist. If you have any questions about my work, or would like to work together, please reach out to me via email: **sam@quackcore.com**
+**Sam Gregg** is a current Film Student, as well as a freelance photographer, video editor, and photojournalist. If you have any questions about my work, or would like to work together, please reach out to me via email: **sam@quackcore.com**. Prints of all my work are available for purchase [here](https://quackcore.darkroom.com/).
 
 {% include image_caption.html imageurl="/images/building.jpg" title="Building in the works" caption="Urban Construction" %}
 
