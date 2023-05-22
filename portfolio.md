@@ -2,7 +2,7 @@
 layout: page
 title: Portfolio
 description: A Sample of photo and video work done by me.
-feature_image: images/rushhr.jpg
+feature_image: images/rushhr2.jpg
 ---
 
 **Sam Gregg** is a current Film Student, as well as a freelance photographer, video editor, and photojournalist. If you have any questions about my work, or would like to work together, please reach out to me via email: **sam@quackcore.com**. Prints of all my work are available for purchase [here](https://quackcore.darkroom.com/).
@@ -15,7 +15,7 @@ feature_image: images/rushhr.jpg
 
 {% include image_caption.html imageurl="/images/attic.jpg" title="Attic" caption="Attic Escape" %}
 
-{% include image_caption.html imageurl="/images/tree.jpg" title="Lone Tree" caption="Lone Tree" %}
+{% include image_caption.html imageurl="/images/gallery.jpg" title="gallery" caption="City Gallery" %}
 
 # Video Work
 This is some of my past work doing video projects. A video reel is in the works for this section. Stay tuned.
