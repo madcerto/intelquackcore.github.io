@@ -37,7 +37,7 @@ navigation:
   - text: Print Shop
     url: https://quackcore.darkroom.com/
   - text: Archives
-    url: /tags/
+    url: /tags
 
 # The shortname for your Disqus site to enable comments.
 disqus: 
