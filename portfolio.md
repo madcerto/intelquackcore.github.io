@@ -7,15 +7,15 @@ feature_image: images/rushhr2.jpg
 
 **Sam Gregg** is a current Film Student, as well as a freelance photographer, video editor, and photojournalist. If you have any questions about my work, or would like to work together, please reach out to me via email: **sam@quackcore.com**. Prints of all my work are available for purchase [here](https://quackcore.darkroom.com/).
 
-{% include image_caption.html imageurl="/images/building.jpg" title="Building in the works" caption="Urban Construction" %}
+{% include image_caption.html imageurl="/images/building.jpg" title="Building in the works" caption="Shot on Panasonic GH4" %}
 
-{% include image_caption.html imageurl="/images/fall.jpg" title="Vermont Hills" caption="New England in Fall" %}
+{% include image_caption.html imageurl="/images/stairs.png" title="Stairs" caption="Shot on Panasonic GH4" %}
 
-{% include image_caption.html imageurl="/images/hardware.jpg" title="Hardware Store" caption="Hardware Store on Film" %}
+{% include image_caption.html imageurl="/images/hardware.jpg" title="Hardware Store" caption="Shot on Olympus OM-1, Kodak Gold 200" %}
 
-{% include image_caption.html imageurl="/images/attic.jpg" title="Attic" caption="Attic Escape" %}
+{% include image_caption.html imageurl="/images/attic.jpg" title="Attic" caption="Shot on Panasonic GH4" %}
 
-{% include image_caption.html imageurl="/images/gallery.jpg" title="gallery" caption="City Gallery" %}
+{% include image_caption.html imageurl="/images/gallery.jpg" title="gallery" caption="Shot on Olympus OM-1, Kodak Gold 200" %}
 
 # Video Work
 This is some of my past work doing video projects. A video reel is in the works for this section. Stay tuned.
