@@ -3,7 +3,7 @@ layout: post
 title: "Why I decided to shoot with film again."
 description: "Originally Published in The Triangle"
 date: 2023-07-15
-feature_image: images/filmcam.jpg
+feature_image: images/filmcam2.jpg
 tags: [personal, cameras, film]
 ---
 *This article was originally published in [The Triangle](https://www.thetriangle.org/opinion/why-i-decided-to-shoot-film-again/)*
@@ -19,6 +19,6 @@ Enter my parents’ attic: they keep almost everything, and while I was home fro
 There are issues with shooting film, for one: maintaining these aging cameras is a problem that will only continue to get worse. Another is that people like me who are running back to Kodak and Ilford are shooting used film camera prices through the roof; not everyone has parents with a packed attic. Another problem is finding a lab that you trust to develop your work promptly. I am lucky to have plenty of options, mainly because I live in the sixth largest city in the US, and with so many colleges in the area, the supply of hipster film nerd types is limitless. I cannot say the same for some of the more rural areas of the country. Even my hometown in Rhode Island has no film labs within a short driving distance. This means that rolls will have to be mailed out for development, adding to the turnaround time. I can get my film scanned and developed in 24 hours, and with some clever subway timing, I can even grab the negatives in that time frame. As some of my work is time sensitive, I can understand why digital is the only option for so many.
 
 
-{% include image_caption.html imageurl="/images/hardware.jpg" title="Hardware Store on Kodak Gold 200" caption="Hardware Store on Kodak Gold 200." %}
+{% include image_caption.html imageurl="/images/port4.jpg" title="Hardware Store on Kodak Gold 200" caption="Hardware Store on Kodak Gold 200." %}
 
 Whether you are deciding to shoot film for some of the reasons I did, or just for that sweet retro look, I think there is a lot of merit to going back to analog. A few weeks ago, on a dare from a friend, I decided to waste four dollars and pick up a singular share of Eastman Kodak stock. Do I think I will make money? No, I expect to lose every cent, but I hope that I am proven wrong. I want people in the future to be able to experience the struggle of using a film advance as a small kid. I want the generation after me to feel what it is like to take a picture, the sound of the film advance ratchet, the old cloth shutter, all things that are tactile and real. Digital will always be more reliable and convenient for most, but the fact that analog is anything but is the very reason I just cannot stop swiping my poor credit card for more Kodak Gold.

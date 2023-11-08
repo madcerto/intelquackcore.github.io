@@ -2,20 +2,20 @@
 layout: page
 title: Portfolio
 description: A Sample of photo and video work done by me.
-feature_image: images/rushhr2.jpg
+feature_image: images/port1.jpg
 ---
 
 **Sam Gregg** is a current Film Student, as well as a freelance photographer, video editor, and photojournalist. If you have any questions about my work, or would like to work together, please reach out to me via email: **sam@quackcore.com**. Prints of all my work are available for purchase [here](https://quackcore.darkroom.com/).
 
-{% include image_caption.html imageurl="/images/35650034.jpg" title="Old City Philadelphia" caption="Shot on Olympus OM-1, Kodak Gold 200" %}
+{% include image_caption.html imageurl="/images/port2.jpg" title="Old City Philadelphia" caption="Shot on Olympus OM-1, Kodak Gold 200" %}
 
-{% include image_caption.html imageurl="/images/stairs.png" title="Stairs" caption="Shot on Panasonic GH4" %}
+{% include image_caption.html imageurl="/images/port3.jpg" title="Stairs" caption="Shot on Panasonic GH4" %}
 
-{% include image_caption.html imageurl="/images/hardware.jpg" title="Hardware Store" caption="Shot on Olympus OM-1, Kodak Gold 200" %}
+{% include image_caption.html imageurl="/images/port4.jpg" title="Hardware Store" caption="Shot on Olympus OM-1, Kodak Gold 200" %}
 
-{% include image_caption.html imageurl="/images/attic.jpg" title="Attic" caption="Shot on Panasonic GH4" %}
+{% include image_caption.html imageurl="/images/port5.jpg" title="Attic" caption="Shot on Panasonic GH4" %}
 
-{% include image_caption.html imageurl="/images/gallery.jpg" title="gallery" caption="Shot on Olympus OM-1, Kodak Gold 200" %}
+{% include image_caption.html imageurl="/images/port6.jpg" title="gallery" caption="Shot on Olympus OM-1, Kodak Gold 200" %}
 
 # Video Work
 This is some of my past work doing video projects. A video reel is in the works for this section. Stay tuned.
