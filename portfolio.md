@@ -5,7 +5,7 @@ description: A Sample of photo and video work done by me.
 feature_image: images/port1.jpg
 ---
 
-**Sam Gregg** is a current Film Student, as well as a freelance photographer, video editor, and photojournalist. If you have any questions about my work, or would like to work together, please reach out to me via email: **sam@quackcore.com**. Prints of all my work are available for purchase [here](https://quackcore.darkroom.com/).
+**Sam Gregg** is a current Film Student, as well as a freelance photographer, video editor, and photojournalist. If you have any questions about my work, or would like to work together, please reach out to me via email: **sam@quackcore.com**. 
 
 {% include image_caption.html imageurl="/images/port2.jpg" title="Old City Philadelphia" caption="Shot on Olympus OM-1, Kodak Gold 200" %}
 
