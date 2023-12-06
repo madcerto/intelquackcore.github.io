@@ -11,9 +11,9 @@ feature_image: images/port1.jpg
 
 {% include image_caption.html imageurl="/images/port3.jpg" title="Stairs" caption="Shot on Panasonic GH4" %}
 
-{% include image_caption.html imageurl="/images/port4.jpg" title="Hardware Store" caption="Shot on Olympus OM-1, Kodak Gold 200" %}
+{% include image_caption.html imageurl="/images/port4.jpg" title="Sansom Street Philly" caption="Shot on Olympus AZ-230, Fujifilm 400" %}
 
-{% include image_caption.html imageurl="/images/port5.jpg" title="Attic" caption="Shot on Panasonic GH4" %}
+{% include image_caption.html imageurl="/images/port5.jpg" title="Hardware Store" caption="Shot on Olympus OM-1, Kodak Gold 200" %}
 
 {% include image_caption.html imageurl="/images/port6.jpg" title="gallery" caption="Shot on Olympus OM-1, Kodak Gold 200" %}
 
