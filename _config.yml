@@ -31,7 +31,7 @@ navigation:
   - text: Home
     url: /
   - text: Portfolio
-    url: /portfolio
+    url: /rxportfolio
   - text: Linktree
     url: https://linktr.ee/quackcore
   - text: Print Shop
