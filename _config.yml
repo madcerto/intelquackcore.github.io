@@ -32,8 +32,8 @@ navigation:
     url: /
   - text: Photo Portfolio
     url: /rxportfolio
-  -text: Video Portfolio
-    url:/portfolio
+  - text: Video Portfolio
+    url: /portfolio
   - text: Linktree
     url: https://linktr.ee/quackcore
   - text: Print Shop
