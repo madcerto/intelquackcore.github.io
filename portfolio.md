@@ -11,26 +11,21 @@ description: A Sample of photo and video work done by me.
 # Crew Work:
 
 **Director** 
-+ *[Steven's Mind](https://vimeo.com/946315738?share=copy)* (2024)
-
++ *[Steven's Mind](https://vimeo.com/946315738?share=copy)* (2024) - Short Film
 **DP** 
 + *Lost Time* (2024, All Days) - Short Film
-
 **1st AC**
  + *[The Chewing](https://www.youtube.com/watch?v=y0CZ4Dg4rKU&t=426s)* (2024, Day One) - Short Film
  + *[Plain Sailing Weather](https://www.youtube.com/watch?v=MauyWK1eim0)* (2024, B-Camera) - Short Film
  + *Frozen Bodies* (Upcoming, Pick Up Day Only) - Senior Thesis
- 
 **2nd AC**
  + *Pass Me the iPad* (2022, Day One) - Short Film
-
 **Cam-Op**
  + *TV Series Class "Off Campus"* (2024) - Episodic TV
-
 **Boom-Op/Mixer**
  + *[The Chewing](https://www.youtube.com/watch?v=y0CZ4Dg4rKU&t=426s)* (2024, Day Three) - Short Film
  + *I Should Have F***ing Listened* (2024, All Days) - Short Film
-
+ 
 # Self Directed Works
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/880624289?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Super8 Minolta XL400 Test Reel"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 [Super8 Camera Test](https://www.youtube.com/watch?v=xrkHsUdrLvI) available on my YouTube [Samuel Gregg](https://www.youtube.com/@samgregg)
