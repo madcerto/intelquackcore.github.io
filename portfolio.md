@@ -18,9 +18,6 @@ description: A Sample of photo and video work done by me.
  + *[Plain Sailing Weather](https://www.youtube.com/watch?v=MauyWK1eim0)* (2024, B-Camera) - Short Film
  + *Frozen Bodies* (Upcoming, Pick Up Day Only) - Senior Thesis
 
-**2nd AC**
- + *Pass Me the iPad* (2022, Day One) - Short Film
-
 **Cam-Op**
  + *TV Series Class "Off Campus"* (2024) - Episodic TV
 
