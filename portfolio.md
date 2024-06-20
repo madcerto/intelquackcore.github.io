@@ -6,7 +6,7 @@ description: A Sample of photo and video work done by me.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sjfrFf8CXCE?si=ELtnZLj92jwZGObN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Sam Gregg** is a current Film Student, as well as a freelance Director of Photography, 1st AC, and Photojournalist. If you have any questions about my work, or would like to work together, please reach out to me via email: **sam@quackcore.com**.
+**Sam Gregg** is a current Film Student, as well as a freelance Director of Photography, 1st AC/focus puller, and Photojournalist. In addition to experience with modern cinema camera systems from RED, ARRI, and Cannon, I also have experience with film cameras, 1980s camcorders and vintage broadcast equipment. I own a large collection of vintage and unique lenses as well as several super8 and 90's 3CCD broadcast cameras. [Gear List is attached.](https://docs.google.com/document/d/1uJ9pmbqwla07XqOVKpPNCc3UcMvHipev543l-ObF4Yg/edit?usp=sharing) If you have any questions about my work, equipment, or would like to work together, please reach out to me via email: **sam@quackcore.com**.
 
 # Crew Work:
 
