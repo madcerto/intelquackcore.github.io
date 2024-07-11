@@ -4,7 +4,7 @@ title: Video Portfolio
 description: A Sample of photo and video work done by me.
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G3uD9cct47M?si=B5pcyhx2iU84AIup" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wVKYYZqURiE?si=jyjYVBxROlotHm3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Sam Gregg** is a current Film Student, as well as a freelance Director of Photography, 1st AC/focus puller, and Photojournalist. In addition to experience with modern cinema camera systems from RED, ARRI, and Canon, I also have experience with film cameras, 1980s camcorders and vintage broadcast equipment. [List of modern and vintage gear I own is attached.](https://docs.google.com/document/d/1uJ9pmbqwla07XqOVKpPNCc3UcMvHipev543l-ObF4Yg/edit?usp=sharing) If you have any questions about my work, equipment, or would like to work together, please reach out to me via email: **sam@quackcore.com**.
 
