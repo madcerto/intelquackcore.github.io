@@ -16,7 +16,6 @@ I have been using DaVinci Resolve since I was in high school, and the software h
 This is not to say that I have not spent a long time in Premiere Pro, and Avid Media Composer. Since I am a film major, I often have to use the software that the class I am taking is built around. I have taken classes in advanced use of Premiere, as well as the current industry standard, Avid Media Composer. When I started using Avid Media Composer, I was convinced that I was in crazy town. How was this the industry standard? It looked dated, and had such a weird way of doing things, it made me want to pull my hair out. I swore off of it as soon as the classes I took no longer needed it. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-6fcleuoh7I?si=r2k8xMzclSUcA51j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 *Example of one of my Avid Media Composer projects. My own take on a trailer for La La Land*
 
 Flash forward to about two months ago, and I decided that I should really take advantage of my discounted license while in school and try to learn Avid to a much higher degree than I had already done in my two classes in the subject. I spent a lot of time relearning the workings, and revisiting projects from past systems. As I spent more time in Avid Media Composer, I started to understand the workflow and why Avid is so different and sometimes “bad looking”. 
