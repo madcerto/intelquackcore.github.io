@@ -3,11 +3,11 @@ layout: post
 title: "Learning to love Avid Media Composer"
 description: "A lesson in reliability and process benefits that come from using the correct tool"
 date: 2024-07-16
-feature_image: images/searsbw.jpg
+feature_image: images/avid.png
 tags: [film, cameras, personal]
 ---
 
-As a film major in today’s media focused world, a lot of friends have asked me what video editing software I use, and what I would recommend for them to get into editing. My response has always been the same. DaVinci Resolve is the best deal in the world right now when it comes to video editing. You get the industry standard for color grading, and a good video editor, and a decent mixing DAW for the low price of literally free. The paid version is a one-time price of three hundred dollars, but for most people, the free version of resolve is more than enough. 
+As a film major in today’s media focused world, a lot of friends have asked me what video editing software I use, and what I would recommend for them to get into editing. My response has always been the same. DaVinci Resolve is the best deal in the world right now when it comes to video editing. You get the industry standard for color grading, and a good video editor, and a decent mixing DAW for the low price of literally free. The paid version is a one-time price of three hundred dollars, but for most people, the free version of Resolve is more than enough. 
 
 <!--more-->
 
