@@ -30,7 +30,7 @@ description: A Sample of photo and video work done by me.
 [Super8 Camera Test](https://www.youtube.com/watch?v=xrkHsUdrLvI) available on my YouTube [Samuel Gregg](https://www.youtube.com/@samgregg)
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/989067972?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Hitachi 1995 Broadcast Camera Sizzle Reel"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-"Product Promo Video Example for [QuackCore](https://quackcore.com)
+Product Promo Video Example for [QuackCore](https://quackcore.com)
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/946315738?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Steven's Mind"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 "Steven's Mind" A Short Film available on [Vimeo](https://vimeo.com/946315738?share=copy). More Info available [here](https://quackcore.com/stevensmind)
