@@ -12,6 +12,7 @@ description: A Sample of photo and video work done by me.
 
 **DP** 
 + *Lost Time* (2024, All Days) - Short Film
++ *[That's All - Waao](https://www.youtube.com/watch?v=LXKLg4VYLeQ)* (2024, All Days) - Music Video
 
 **1st AC**
  + *[The Chewing](https://www.youtube.com/watch?v=y0CZ4Dg4rKU&t=426s)* (2024, Day One) - Short Film
