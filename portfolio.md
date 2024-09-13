@@ -18,6 +18,7 @@ description: A Sample of photo and video work done by me.
  + *[The Chewing](https://www.youtube.com/watch?v=y0CZ4Dg4rKU&t=426s)* (2024, Day One) - Short Film
  + *[Plain Sailing Weather](https://www.youtube.com/watch?v=MauyWK1eim0)* (2024, B-Camera) - Short Film
  + *Frozen Bodies* (2024, Pick Up Day Only) - Senior Thesis
+ + *Abandominium* (2024) - Short Film
 
 **Cam-Op**
  + *TV Series Class "Off Campus"* (2024) - Episodic TV
