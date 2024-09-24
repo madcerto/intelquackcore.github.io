@@ -29,9 +29,9 @@ description: A Sample of photo and video work done by me.
 
  **Production Assistant**
  + *Cowtown Rodeo: Cowboy Channel* (2024) - Live Broadcast
- + *Standard Steel X Nippon Steel* (2024) - Advertisement
+ + *[Standard Steel X Nippon Steel](https://youtu.be/R5kyxz1uEq4?si=bfvhHtnWDuDA1PAg)* (2024) - Advertisement
  + *USGA Women's Open X Ally Bank* (2024) - Advertisement
- + *NJ Laborer's Union LiUNA!* (2024) - Advertisement
+ + *[NJ Laborer's Union LiUNA!](https://www.instagram.com/p/C7h1t3lgApj/)* (2024) - Advertisement
 
 
 # Self Directed Works
