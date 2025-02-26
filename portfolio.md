@@ -20,9 +20,12 @@ description: A Sample of photo and video work done by me.
  + *[Plain Sailing Weather](https://www.youtube.com/watch?v=MauyWK1eim0)* (2024, B-Camera) - Short Film
  + *Frozen Bodies* (2024, Pick Up Day Only) - Short Film
  + *Abandominium* (2024) - Short Film
+ + *Connection* (2025) - Short Film
+ + *Far From the Apple Tree* (2025) - Short Film
 
 **Cam-Op**
  + *TV Series Class "Off Campus"* (2024) - Episodic TV
+ + *Un Poco de Mexico* (2025) - Short Film
 
 **Boom-Op/Mixer**
  + *[The Chewing](https://www.youtube.com/watch?v=y0CZ4Dg4rKU&t=426s)* (2024, Day Three) - Short Film
