@@ -16,8 +16,8 @@ description: A Sample of photo and video work done by me.
 + *[That's All - Waao](https://www.youtube.com/watch?v=LXKLg4VYLeQ)* (2024, All Days) - Music Video
 
 **1st AC**
- + *[The Chewing](https://www.youtube.com/watch?v=y0CZ4Dg4rKU&t=426s)* (2024, Day One) - Short Film
- + *[Plain Sailing Weather](https://www.youtube.com/watch?v=MauyWK1eim0)* (2024, B-Camera) - Short Film
+ + *[The Chewing](https://www.youtube.com/watch?v=y0CZ4Dg4rKU&t=426s)* (2024) - Short Film
+ + *[Plain Sailing Weather](https://www.youtube.com/watch?v=MauyWK1eim0)* (2024) - Short Film
  + *Frozen Bodies* (2024, Pick Up Day Only) - Short Film
  + *Abandominium* (2024) - Short Film
  + *Connection* (2025) - Short Film
@@ -29,7 +29,7 @@ description: A Sample of photo and video work done by me.
 
 **Boom-Op/Mixer**
  + *[The Chewing](https://www.youtube.com/watch?v=y0CZ4Dg4rKU&t=426s)* (2024, Day Three) - Short Film
- + *[I Should Have F-ing Listened](https://www.youtube.com/watch?v=tmx2EL5j9-g)* (2024, All Days) - Short Film
+ + *[I Should Have F-ing Listened](https://www.youtube.com/watch?v=tmx2EL5j9-g)* (2024) - Short Film
 
  **Production Assistant**
  + *Cowtown Rodeo: Cowboy Channel* (2024) - Live Broadcast
