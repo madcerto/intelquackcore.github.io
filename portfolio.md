@@ -40,6 +40,9 @@ description: A Sample of photo and video work done by me.
 
 
 # Self Directed Works
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1068334083?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="TechServ: A Short Documentary"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+[TechServ Documentary Short](https://youtu.be/pJBGbzppBHA?si=xA75sQcagxwT6iEx) available on my YouTube [Samuel Gregg](https://www.youtube.com/@samgregg)
+
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/880624289?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Super8 Minolta XL400 Test Reel"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 [Super8 Camera Test](https://www.youtube.com/watch?v=xrkHsUdrLvI) available on my YouTube [Samuel Gregg](https://www.youtube.com/@samgregg)
 
