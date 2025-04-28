@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Generative AI is a danger to our collective humanity"
+description: "Generative AI and ChatGPT is a danger to more than just the arts, its a danger to our core humanity"
+date: 2025-04-28
+feature_image: images/aihumanity.JPG
+tags: [AI, personal]
+---
+*This article was originally published in [The Triangle](https://www.thetriangle.org/opinion/chatgpt-is-a-clear-and-present-danger/)*
+
+I first heard about ChatGPT when the first public “research trial” was launched in 2022, and right away I recognized the clear and present danger it presented to all industries, interests and people. While a lot of people have been drawn in by the convenience that generative AI presents, I think that more people should stop and ask themselves if what they are doing is worth the enormous, often ignored cost.
+
+<!--more-->
+
+ChatGPT is not free to use. While it costs no money, you pay for it by letting OpenAI use your brain and your inherent humanity to train their all-encompassing AI large language models. Each question you ask is being used to refine and improve ChatGPT. Every free service has a cost — Gmail is paid for with advertising as well as your data, Instagram and social media are paid for by giving the companies your time and attention. Everything has a price, and I think more people should ask themselves if ChatGPT is worth that staggeringly high price.
+
+We are now a few years into this new age of generative AI, and I am only getting more and more concerned about the future of our youth and people at large. Beyond the constant threats of AI taking our jobs, it has already taken something far worse from us, and I see it in my friends every day. It has robbed us of curiosity, a will to explore, and a desire to learn. Friends of mine who are paying thousands of dollars to attend college are using ChatGPT to crank out their homework assignments with reckless abandon, without a single thought being given to the damage they are causing to their own learning. I cannot even imagine trying to be a high school English teacher right now.
+
+The clear and present danger to academia is even further entrenched, as I have seen professors use ChatGPT to grade assignments, many of which were also probably written with ChatGPT. One of my professors even encouraged me to use ChatGPT for an assignment just last week. What is the point of the grading process if AI is used to generate an answer that is then checked by another person using AI? We could all do nothing in class, sit on the floor, and scream gibberish at a blank wall, and the same amount of learning would have taken place. I want to learn, but in an age with generative AI, fewer and fewer people are willing to teach.
+
+Coding is a commonly defended use of ChatGPT, and a lot of people will try to tell you that it helps people code more effectively and efficiently. Those same people have tried to tell me in the past how there is “creativity in engineering and computer science.” Guess what? You cannot have it both ways; “creative problem solving” and “unique approaches to problems” are dead when you introduce the “efficiency” of AI. All you are left with is the answer to the problem, solved in the most average way mathematically possible. When ChatGPT is involved, we will never know if there is a more effective way to approach a programming problem, because unlike a human, ChatGPT can’t think outside the average, let alone outside of the box.
+
+A frequent counterargument that I hear from people who are addicted to the convenience of generative AI is that it is only a “tool for learning” and that they would not use it for everything. Beyond the fact that I do not for one second believe that they are able to resist the temptation of just “asking ChatGPT,” I think that the harm goes far deeper. Using AI as a “tool” for the little tasks rips the small amount of humanity that was left in text messaging, emailing, and discussion boards away altogether. Text is already a medium where tone, personality and subtlety struggle to survive; adding in these “AI” tools guarantees that there is no chance for their survival. Human-to-human interaction via text is flatlined before a message can even be sent.
+
+I fear that we are looking at the dawn of a dark age for the internet and humanity. Slowly but surely, all industries and interests will get absorbed into the growing pool of murky AI slop. The internet is already at the point where distinguishing between real human comments, images and videos is a struggle. Whatever your industry or hobby is will be quick to follow, just watch. All it takes is a few people in your field to give in to the lazy convenience of generative AI for your humanity to become completely devalued and ripped away. Next time you are typing that query into a generative AI, stop and ask yourself if the cost to humanity is worth it.
