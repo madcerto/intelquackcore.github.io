@@ -33,7 +33,7 @@ description: A Sample of photo and video work done by me.
  + *[I Should Have F-ing Listened](https://www.youtube.com/watch?v=tmx2EL5j9-g)* (2024) - Short Film
 
  **Production Assistant**
- + *Cowtown Rodeo: Cowboy Channel* (2024) - Live Broadcast
+ + *[Cowtown Rodeo: Cowboy Channel](https://www.cowboychannelplus.com/show/966)* (2024) - Live Broadcast
  + *[Standard Steel X Nippon Steel](https://youtu.be/R5kyxz1uEq4?si=bfvhHtnWDuDA1PAg)* (2024) - Advertisement
  + *USGA Women's Open X Ally Bank* (2024) - Advertisement
  + *[NJ Laborer's Union LiUNA!](https://www.instagram.com/p/C7h1t3lgApj/)* (2024) - Advertisement
