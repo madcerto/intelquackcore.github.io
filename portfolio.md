@@ -28,9 +28,10 @@ description: A Sample of photo and video work done by me.
  + *Un Poco de Mexico* (2025) - Short Film
  + *Those Eyes* (2025) - Short Film
 
-**Boom-Op/Mixer**
- + *[The Chewing](https://www.youtube.com/watch?v=y0CZ4Dg4rKU&t=426s)* (2024, Day Three) - Short Film
- + *[I Should Have F-ing Listened](https://www.youtube.com/watch?v=tmx2EL5j9-g)* (2024) - Short Film
+**Sound**
+ + *[The Chewing](https://www.youtube.com/watch?v=y0CZ4Dg4rKU&t=426s)* (2024, Day Three Boom Op) - Short Film
+ + *[I Should Have F-ing Listened](https://www.youtube.com/watch?v=tmx2EL5j9-g)* (2024, Sound Mixer) - Short Film
+ + *Faker* (2025, Post Sound Design & Mix) - Short Film
 
  **Production Assistant**
  + *[Cowtown Rodeo: Cowboy Channel](https://www.cowboychannelplus.com/show/966)* (2024) - Live Broadcast
