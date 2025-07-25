@@ -31,7 +31,7 @@ navigation:
   - text: Home
     url: /
   - text: Photo Portfolio
-    url: /rxportfolio
+    url: /portfolio/album1
   - text: Video Portfolio
     url: /portfolio
   - text: Linktree
@@ -71,3 +71,8 @@ markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
+
+# Portfolio
+portfolio:
+  title: 'Sam Gregg Photography'
+  description: '<b>Sam Gregg</b> is a current Film Student, as well as a freelance photographer, video editor, and photojournalist. If you have any questions about my work, or would like to work together, please reach out to me via email: sam@quackcore.com.'
