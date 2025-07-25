@@ -27,7 +27,7 @@
         <ul class="album-menu">
           {% for page in site.pages %}
             {% if page.path contains 'portfolio/' %}
-            <li class="album-menu-item"><a href="{{ page.url }}" id="" class="">→ {{ page.title }}</a></li>
+	    <li class="album-menu-item"><a href="{{ site.baseurl }}{{ page.url }}" id="" class="">→ {{ page.title }}</a></li>
             {% endif %}
           {% endfor %}
         </ul>
