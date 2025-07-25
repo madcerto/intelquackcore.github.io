@@ -15,7 +15,7 @@ title: "QuackCore"
 description: "Sam Gregg is focused on film production, photography and journalism"
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: ""
+baseurl: "/intelquackcore.github.io"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
 url: "https://quackcore.com/"
